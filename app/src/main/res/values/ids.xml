@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signInButton" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="emailEditText" type="id" />
+    <item name="logoImageView" type="id" />
+    <item name="signUpTextView" type="id" />
+    <item name="signUpButton" type="id" />
+    <item name="usernameEditText" type="id" />
+    <item name="signupLayout" type="id" />
+    <item name="loginLayout" type="id" />
+    <item name="signInTextView" type="id" />
+    <item name="searchEditText" type="id" />
+    <item name="profileButton" type="id" />
+    <item name="moreTextView" type="id" />
+    <item name="mentorsRecyclerView" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="payButton" type="id" />
+    <item name="nameEditText" type="id" />
+    <item name="expiryDateEditText" type="id" />
+    <item name="cvvEditText" type="id" />
+    <item name="cardNumberEditText" type="id" />
+    <item name="messageButton" type="id" />
+    <item name="contactsTextView" type="id" />
+    <item name="startupNameTextView" type="id" />
+    <item name="aboutTextView" type="id" />
+</resources>
